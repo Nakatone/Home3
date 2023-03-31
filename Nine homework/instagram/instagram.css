@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    grid-template-columns: 450px auto ;
+}
+.menu{
+    font-family: 'Sarabun', sans-serif;
+    display: grid;
+    margin: 0;
+    padding: 0;
+    width: 302px;
+    height: 713px;
+    align-items: center;
+    box-shadow: 3px 3px 10px rgba(0,0,0,.1);
+    justify-content: center;
+} 
+.post{
+    margin-top: 20px;
+    margin-right: 200px;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto auto;
+} 
+.post1{
+    width: 300px;
+    height: 300px;
+    margin: auto auto;
+}
+.post2{
+    width: 300px;
+    height: 300px;
+    margin: auto auto;
+}
+
+.post3{
+    width: 300px;
+    height: 300px;
+    margin: auto auto;
+}
+.post4{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto ;
+}
+.post41{
+    width: 300px;
+    height: 150px;
+    margin: auto auto;
+}
+.post42{
+    width: 300px;
+    height: 150;
+    margin: auto auto;
+}
+.logo{
+    position: relative;
+    top: 50px;
+    right: 60px;
+}
+.fa-compass{
+    position: relative;
+    right: 50px;
+    top: 25px;
+    
+}
+.explore{
+    position: relative;
+    right: 10px;
+    bottom: 30px;
+}
+h4{
+    position: relative;
+    left: 10px;
+}
+.gg-home{
+    position: relative;
+    top: 12px;
+    right: 23px;
+}
+.gg-search{
+    position: relative;
+    top: 12px;
+    right: 20px;
+}
+.fa-instagram{
+    position: relative;
+    top: 18px;
+    right: 20px;
+}
+.fa-facebook-messenger{
+    position: relative;
+    top: 18px;
+    right: 23px; 
+}
+.fa-heart{
+    position: relative;
+    top: 18px;
+    right: 22px; 
+}
+.fa-square-plus{
+    position: relative;
+    top: 18px;
+    right: 20px; 
+}
+.fa-user{
+    position: relative;
+    top: 17px;
+    right: 20px;
+}
+.fa-bars{
+    position: relative;
+    top: 18px;
+    right: 20px;
+}
+.home{
+    position: relative;
+    top: 60px;
+    right: 35px;
+}
+.search{
+    position: relative;
+    top: 30px;
+    right: 35px;
+}
+.reel{
+    position: relative;
+    bottom: 60px;
+    right: 35px;
+}
+.messenger{
+    position: relative;
+    bottom: 90px;
+    right: 35px;
+}
+.notification{
+    position: relative;
+    bottom: 120px;
+    right: 35px;
+}
+.create{
+    position: relative;
+    bottom: 150px;
+    right: 35px;
+}
+.profile{
+    position: relative;
+    bottom: 180px;
+    right: 35px;
+}
+.more{
+    position: relative;
+    bottom: 20px;
+    right: 35px;
+}
+.dot{
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 25px;
+    right: 180px;
+    top: 47px;
+    border-radius: 10px;
+}
+h2{
+    position: relative;
+    right: 15px;
+}
+
